@@ -1,5 +1,4 @@
 import React from 'react';
-import bgCar from './bgcar2.jpg'
 
 
 function Header(){
