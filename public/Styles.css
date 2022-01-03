@@ -6,11 +6,11 @@ body {
 
 .header{
     display: flexbox;
-    position: absolute;
-    height: 10%;
+    position: relative;
+    height: 20%;
     width: 100%;
-    size: 20%;
     color: #00FFF5;
+    margin-bottom: 20px;
     background-color: #222831;
     font: 70px;
     text-align: center;
@@ -41,40 +41,38 @@ body {
 .hero img{
     display: flexbox;
     position: absolute;
-    height: 120%;
-    width: 120%;
+    margin-left: 30%;
+    height: 50%;
+    width: 50%;
     border-radius: 50%;
-    margin-top: 100px;
+    margin-top: 20%;
     border: solid;
 }
 
 .main{
-    display: flexbox;
-    height: 100%;
+    display: inline-grid;
+    height: 10%;
     width: 100%;
     position: relative;
-    margin-top: 60%;
+    margin-top: 30%;
     margin-left: 10%;
     text-align: center;
     font-family: 'Bakbak one', cursive;
 }
 
-.main h1{
-    margin-left: 0%;
-    margin-top: 50px;
-    margin-bottom: 50px;
-}
 
 .small{
     display: flexbox;
     position: relative;
-    height: 60%;
-    width: 30%;
+    height: 80%;
+    width: 60%;
     border: solid;
     background-color: white;
     border-radius: 12%;
     background-color: #393E46;
     font-family: 'Bakbak one', cursive;
+    grid-row-start: 1;
+    grid-row-end: 3;
 }
 
 .small img{
@@ -86,19 +84,21 @@ body {
 .med{
     display: flexbox;
     position: relative;
-    width: 30%;
-    height: 60%;
-    margin-left: 40%;
+    width: 60%;
+    height: 80%;
+    margin-left: 20%;
     border: solid;
     background-color: white;
     border-radius: 12%;
     background-color: #393E46;
     font-family: 'Bakbak one', cursive;
+    grid-row-start: 1;
+    grid-row-end: 3;
 }
 
 .med img{
-    height: 30%;
-    width: 30%;
+    height: 50%;
+    width: 75%;
     border-radius: 10%;
 }
 
@@ -107,7 +107,7 @@ body {
     position: relative;
     height: 300px;
     width: 100%;
-    margin-top: 110%;
+    margin-top: 50%;
     text-align: center;
     font-family: 'Bakbak one', cursive;
 }
