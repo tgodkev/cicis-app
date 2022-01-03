@@ -9,7 +9,7 @@ body {
     position: absolute;
     height: 10%;
     width: 100%;
-    size: 300px;
+    size: 20%;
     color: #00FFF5;
     background-color: #222831;
     font: 70px;
@@ -41,8 +41,8 @@ body {
 .hero img{
     display: flexbox;
     position: absolute;
-    height: 500px;
-    width: 500px;
+    height: 120%;
+    width: 120%;
     border-radius: 50%;
     margin-top: 100px;
     border: solid;
@@ -50,6 +50,8 @@ body {
 
 .main{
     display: flexbox;
+    height: 100%;
+    width: 100%;
     position: absolute;
     margin-top: 60%;
     margin-left: 10%;
@@ -58,7 +60,7 @@ body {
 }
 
 .main h1{
-    margin-left: 450px;
+    margin-left: 0%;
     margin-top: 50px;
     margin-bottom: 50px;
 }
@@ -66,7 +68,7 @@ body {
 .small{
     display: flexbox;
     position: absolute;
-    width: 500px;
+    width: 30%;
     border: solid;
     background-color: white;
     border-radius: 12%;
@@ -75,15 +77,15 @@ body {
 }
 
 .small img{
-    height: 500px;
-    width: 500px;
+    height: 40%;
+    width: 40%;
     border-radius: 11%;
 }
 
 .med{
     display: flexbox;
     position: absolute;
-    width: 500px;
+    width: 30%;
     margin-left: 800px;
     border: solid;
     background-color: white;
@@ -93,8 +95,8 @@ body {
 }
 
 .med img{
-    height: 450px;
-    width: 500px;
+    height: 30%;
+    width: 30%;
     border-radius: 10%;
 }
 
