@@ -41,7 +41,7 @@ body {
 .hero img{
     display: flexbox;
     position: relative;
-    margin-left: 30%;
+    margin-left: 10%;
     height: 400px;
     width: 400px;
     border-radius: 50%;
