@@ -6,7 +6,6 @@ function Main()
 {
     return(
         <div className="main">
-            <h1>Great Food For A Great Time.</h1>
             <div className="small">
                 <img src={car1} alt="food" />
                 <p>Small meat and Cheese board 35$. Good for small gatherings or as a treat.</p>
