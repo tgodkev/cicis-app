@@ -1,0 +1,127 @@
+body {
+    background-color: #00ADB5;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+.header{
+    display: flexbox;
+    position: absolute;
+    height: 10%;
+    width: 100%;
+    size: 300px;
+    color: #00FFF5;
+    background-color: #222831;
+    font: 70px;
+    text-align: center;
+    font-family: 'Bakbak one', cursive;
+}
+
+
+.hero{
+    display: flexbox;
+    position: absolute;
+    height: 30%;
+    width: 30%;
+    margin-top: 10%;
+    margin-left: 35%;
+    font-size: 20px;
+    font-family: 'Bakbak one', cursive;
+}
+
+.hero img{
+    display: flexbox;
+    position: absolute;
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    margin-top: 80px;
+    border: solid;
+}
+
+.main{
+    display: flexbox;
+    position: absolute;
+    margin-top: 50%;
+    margin-left: 20%;
+    text-align: center;
+    font-family: 'Bakbak one', cursive;
+}
+
+.main h1{
+    margin-left: 300px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.small{
+    display: flexbox;
+    position: absolute;
+    width: 500px;
+    border: solid;
+    background-color: white;
+    border-radius: 12%;
+    background-color: #393E46;
+    font-family: 'Bakbak one', cursive;
+}
+
+.small img{
+    height: 500px;
+    width: 500px;
+    border-radius: 11%;
+}
+
+.med{
+    display: flexbox;
+    position: absolute;
+    width: 500px;
+    margin-left: 800px;
+    border: solid;
+    background-color: white;
+    border-radius: 12%;
+    background-color: #393E46;
+    font-family: 'Bakbak one', cursive;
+}
+
+.med img{
+    height: 450px;
+    width: 500px;
+    border-radius: 10%;
+}
+
+.contact{
+    display: flexbox;
+    position: absolute;
+    height: 300px;
+    width: 100%;
+    margin-top: 100%;
+    text-align: center;
+    font-family: 'Bakbak one', cursive;
+}
+
+
+.accordion {
+    max-width: 800px;
+    margin: 2rem auto;
+  }
+  
+  .accordion-title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    cursor: pointer;
+    background-color: #222831;
+  }
+  
+  .accordion-title:hover {
+    background-color: #3ab4cc;
+  }
+  
+  .accordion-title,
+  .accordion-content {
+    padding: 1rem;
+  }
+  
+  .accordion-content {
+    background-color: #00ADB5;
+  }
