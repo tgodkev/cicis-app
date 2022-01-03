@@ -42,11 +42,10 @@ body {
     display: flexbox;
     position: relative;
     margin-left: 10%;
-    max-height: 50%;
-    max-width: 50%;
+    max-height: 80%;
+    max-width: 80%;
     border-radius: 50%;
     margin-top: 20%;
-    border: solid;
 }
 
 .main{
