@@ -66,7 +66,6 @@ body {
     position: relative;
     height: 90%;
     width: 60%;
-    border: solid;
     background-color: white;
     border-radius: 12%;
     background-color: #35589A;
@@ -87,7 +86,6 @@ body {
     width: 60%;
     height: 90%;
     margin-left: 20%;
-    border: solid;
     border-radius: 12%;
     background-color: #35589A;
     font-family: 'Bakbak one', cursive;

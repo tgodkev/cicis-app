@@ -9,7 +9,8 @@ function Main()
             <div className="small">
                 <img src={car1} alt="food" />
                 <h2>Small Board.</h2>
-                <p>Small meat and Cheese board 35$. Good for small gatherings or as a treat.</p>
+                <p>Small meat and Cheese board 35$.</p>
+                <p>good for a treat or gift</p>
                 </div>
                 <div className="med">
                 <img src={car2} alt="" />
