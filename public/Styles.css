@@ -68,6 +68,7 @@ body {
 .small{
     display: flexbox;
     position: absolute;
+    height: 60%;
     width: 30%;
     border: solid;
     background-color: white;
@@ -77,16 +78,17 @@ body {
 }
 
 .small img{
-    height: 40%;
-    width: 40%;
+    height: 50%;
+    width: 75%;
     border-radius: 11%;
 }
 
 .med{
     display: flexbox;
-    position: absolute;
+    position: relative;
     width: 30%;
-    margin-left: 800px;
+    height: 60%;
+    margin-left: 40%;
     border: solid;
     background-color: white;
     border-radius: 12%;
