@@ -8,8 +8,8 @@ function Main()
         <div className="main">
             <div className="small">
                 <img src={car1} alt="food" />
-                <p>Small meat and Cheese board 35$. Good for small gatherings or as a treat.</p>
                 <h2>Small Board.</h2>
+                <p>Small meat and Cheese board 35$. Good for small gatherings or as a treat.</p>
                 </div>
                 <div className="med">
                 <img src={car2} alt="" />
