@@ -1,5 +1,5 @@
 body {
-    background-color: #00ADB5;
+    background-color: #370665;
     margin-top: 0px;
     margin-left: 0px;
 }
@@ -9,9 +9,9 @@ body {
     position: relative;
     height: 20%;
     width: 100%;
-    color: #00FFF5;
+    color: #F14A16;
     margin-bottom: 20px;
-    background-color: #222831;
+    background-color: #FC9918;
     font: 70px;
     text-align: center;
     font-family: 'Bakbak one', cursive;
@@ -69,7 +69,7 @@ body {
     border: solid;
     background-color: white;
     border-radius: 12%;
-    background-color: #393E46;
+    background-color: #35589A;
     font-family: 'Bakbak one', cursive;
     grid-row-start: 1;
     grid-row-end: 3;
@@ -89,7 +89,7 @@ body {
     margin-left: 20%;
     border: solid;
     border-radius: 12%;
-    background-color: #393E46;
+    background-color: #35589A;
     font-family: 'Bakbak one', cursive;
     grid-row-start: 1;
     grid-row-end: 3;
@@ -122,7 +122,7 @@ body {
     flex-direction: row;
     justify-content: space-between;
     cursor: pointer;
-    background-color: #222831;
+    background-color: #FFC900;
   }
   
   .accordion-title:hover {
