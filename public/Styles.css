@@ -42,8 +42,8 @@ body {
     display: flexbox;
     position: relative;
     margin-left: 10%;
-    height: 400px;
-    width: 400px;
+    max-height: 50%;
+    max-width: 50%;
     border-radius: 50%;
     margin-top: 20%;
     border: solid;
