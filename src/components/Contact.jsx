@@ -9,7 +9,7 @@ function Contact(){
         content: 'Weekdays after 5 and weekends on scheduled pickup or deliver (fees apply)'
       },
       {
-          title: "What all on these coochi boards?",
+          title: "What all on these coochie boards?",
           content: "Well it depends on the season, but always the fresest meats cheeses and fruits I can find"
       },
       {
