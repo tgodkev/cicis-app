@@ -1,23 +1,21 @@
 body {
     background-color: #370665;
-    margin-top: 0px;
-    margin-left: 0px;
 }
 
 .header{
     display: flexbox;
-    position: static;
+    position: relative;
     height: 10%;
     width: 100%;
+    margin-top: 0;
     color: #F14A16;
     margin-bottom: 20px;
-    margin-top: 0%;
+    padding-top: 2%;
     background-color: #FC9918;
     font: 70px;
     text-align: center;
     font-family: 'Bakbak one', cursive;
 }
-
 
 .hero{
     display: flexbox;
