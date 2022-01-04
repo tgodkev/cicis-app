@@ -80,7 +80,7 @@ body {
 
 .small img{
     height: 50%;
-    width: 75%;
+    width: 100%;
     border-radius: 11%;
 }
 
@@ -100,7 +100,7 @@ body {
 
 .med img{
     height: 50%;
-    width: 75%;
+    width: 100%;
     border-radius: 10%;
 }
 
