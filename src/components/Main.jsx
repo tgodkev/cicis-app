@@ -14,7 +14,7 @@ function Main()
         <div className="main">
             <div className="small">
                 <img src={car1} alt="food" />
-                <h2>Small Board.</h2>
+                <h2>Small Coochie.</h2>
                 <p>Small meat and Cheese board 35$.</p>
                 <p>good for a treat or gift</p>
                 <Button variant="contained">
@@ -23,7 +23,7 @@ function Main()
                 </div>
                 <div className="med">
                 <img src={car2} alt="" />
-                    <h2>Medium Board</h2>
+                    <h2>Medium Coochie</h2>
                 <p>This board is great for any family ocasion. 65$</p>
                 <Button variant="contained">
                 <a href="mailto:tgodkev@gmail.com?subject= Medium Order">order</a>
