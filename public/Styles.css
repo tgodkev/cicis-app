@@ -23,7 +23,7 @@ body {
     display: flexbox;
     position: relative;
     height: 30%;
-    width: 30%;
+    width: 60%;
     margin-top: 10%;
     margin-left: 35%;
     font-size: 16px;
@@ -31,7 +31,7 @@ body {
 }
 .hero h1{
     text-align: center;
-    margin-left: 10px;
+    margin-right: 10%;
     font-size: 2rem;
 }
 
@@ -45,8 +45,8 @@ body {
     display: flexbox;
     position: relative;
     margin-left: 10%;
-    max-height: 80%;
-    max-width: 80%;
+    max-height: 40%;
+    max-width: 40%;
    border-radius: 10%;
     margin-top: 20%;
 }
@@ -57,7 +57,6 @@ body {
     width: 100%;
     position: relative;
     margin-top: 10%;
-    margin-left: 10%;
     text-align: center;
     font-family: 'Bakbak one', cursive;
     font-size: 16px;
@@ -67,7 +66,7 @@ body {
 .small{
     display: flexbox;
     position: relative;
-    height: 90%;
+    height: 50%;
     width: 50%;
     margin-left: 30%;
     background-color: white;
@@ -88,7 +87,7 @@ body {
     display: flexbox;
     position: relative;
     width: 50%;
-    height: 90%;
+    height: 80%;
     margin-left: 30%;
     margin-top: 5%;
     border-radius: 12%;
