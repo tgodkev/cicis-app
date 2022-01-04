@@ -18,7 +18,7 @@ function Main()
                 <p>Small meat and Cheese board 35$.</p>
                 <p>good for a treat or gift</p>
                 <Button variant="contained">
-                <a href="mailto:tgodkev@gmail.com">order</a>
+                <a href="mailto:tgodkev@gmail.com?subject=Small Order">order</a>
                 </Button>
                 </div>
                 <div className="med">
@@ -26,7 +26,7 @@ function Main()
                     <h2>Medium Board</h2>
                 <p>This board is great for any family ocasion. 65$</p>
                 <Button variant="contained">
-                <a href="mailto:tgodkev@gmail.com">order</a>
+                <a href="mailto:tgodkev@gmail.com?subject= Medium Order">order</a>
                 </Button>
                 </div>
         </div>
