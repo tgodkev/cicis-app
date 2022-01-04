@@ -54,7 +54,7 @@ body {
 .main{
     display: block-grid;
     height: 50%;
-    width: 80%;
+    width: 100%;
     position: relative;
     margin-top: 10%;
     margin-left: 10%;
@@ -68,7 +68,7 @@ body {
     display: flexbox;
     position: relative;
     height: 90%;
-    width: 40%;
+    width: 50%;
     margin-left: 30%;
     background-color: white;
     border-radius: 12%;
@@ -87,7 +87,7 @@ body {
 .med{
     display: flexbox;
     position: relative;
-    width: 40%;
+    width: 50%;
     height: 90%;
     margin-left: 30%;
     margin-top: 5%;
