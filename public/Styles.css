@@ -62,7 +62,7 @@ body {
 .small{
     display: flexbox;
     position: relative;
-    height: 50%;
+    height: 40%;
     width: 40%;
     margin-left: 30%;
     background-color: white;
@@ -83,7 +83,7 @@ body {
     display: flexbox;
     position: relative;
     width: 40%;
-    height: 80%;
+    height: 40%;
     margin-left: 30%;
     margin-top: 5%;
     border-radius: 12%;
