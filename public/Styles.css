@@ -1,5 +1,5 @@
 body {
-    background-color: #370665;
+    background-color: #264653;
 }
 
 .header{
@@ -8,13 +8,23 @@ body {
     height: 10%;
     width: 100%;
     margin-top: 0;
-    color: #F14A16;
-    margin-bottom: 20px;
+    color: #e9c46a;
+    margin-bottom: 20%;
     padding-top: 2%;
-    background-color: #FC9918;
-    font: 70px;
+    padding-bottom: 20%;
+    background-color: #2a9d8f;
+    font-size: 2rem;
     text-align: center;
     font-family: 'Bakbak one', cursive;
+}
+
+.header h1{
+    margin-bottom: 10px;
+}
+
+.header img{
+    width: 20%;
+    height: 20%;
 }
 
 .hero{
@@ -67,7 +77,7 @@ body {
     margin-left: 30%;
     background-color: white;
     border-radius: 12%;
-    background-color: #35589A;
+    background-color: #2a9d8f;
     font-family: 'Bakbak one', cursive;
     grid-row-start: 1;
     grid-row-end: 3;
@@ -87,7 +97,7 @@ body {
     margin-left: 30%;
     margin-top: 5%;
     border-radius: 12%;
-    background-color: #35589A;
+    background-color: #2a9d8f;
     font-family: 'Bakbak one', cursive;
     grid-row-start: 1;
     grid-row-end: 3;
@@ -120,11 +130,11 @@ body {
     flex-direction: row;
     justify-content: space-between;
     cursor: pointer;
-    background-color: #FFC900;
+    background-color: #e9c46a;
   }
   
   .accordion-title:hover {
-    background-color: #3ab4cc;
+    background-color: #2a9d8f;
   }
   
   .accordion-title,
@@ -133,5 +143,6 @@ body {
   }
   
   .accordion-content {
-    background-color: #00ADB5;
+    background-color: #2a9d8f;
   }
+
