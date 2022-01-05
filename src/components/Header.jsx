@@ -1,11 +1,13 @@
 import React from 'react';
-import Delicatessen from './delicatessen.png'
+import Honey from './honey.png';
+import Icons from './Icons';
 
 function Header(){
     return(
         <div className='header'>
-            <h1>Cici's Charcuterie.</h1>
-            <img src={Delicatessen} alt="" />
+            <h1>Honey Charcuterie Co.</h1>
+            <img src={Honey} alt="" />
+            <Icons />
         </div>
     )
 }
