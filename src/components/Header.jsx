@@ -1,11 +1,11 @@
 import React from 'react';
-import Cheese from './cheese.png'
+import Delicatessen from './delicatessen.png'
 
 function Header(){
     return(
         <div className='header'>
             <h1>Cici's Charcuterie.</h1>
-            <img src={Cheese} alt="" />
+            <img src={Delicatessen} alt="" />
         </div>
     )
 }
