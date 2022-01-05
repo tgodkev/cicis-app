@@ -66,7 +66,14 @@ body {
     font-family: 'Bakbak one', cursive;
     font-size: 16px;
 }
+.main button{
+    background-color: #e9c46a;
+    font-family: 'Bakbak one', cursive;
+}
 
+.main a{
+    color: #2a9d8f;
+}
 
 .small{
     display: flexbox;
