@@ -1,5 +1,8 @@
 body {
     background-color: #FDF0D5;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
 
 .header{
@@ -22,9 +25,9 @@ body {
 }
 
 .header img{
-    width: 20%;
-    height: 20%;
-   padding-bottom: 5%;
+    width: 25%;
+    height: 25%;
+   padding-bottom: 3%;
 }
 
 .hero{
