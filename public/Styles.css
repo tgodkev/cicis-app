@@ -1,8 +1,7 @@
 body {
     background-color: #FDF0D5;
-    margin-top: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
+   margin: 0px;
+   padding: 0px;
 }
 
 .header{
@@ -10,10 +9,8 @@ body {
     position: relative;
     height: 10%;
     width: 100%;
-    margin-top: 0;
+    padding-top: 1px;
     color: #e9c46a;
-    padding-top: 1%;
-    padding-bottom: 10%;
     background-color: #2a9d8f;
     font-size: 4rem;
     text-align: center;
