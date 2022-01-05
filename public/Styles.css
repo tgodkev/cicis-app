@@ -10,6 +10,7 @@ body {
     height: 10%;
     width: 100%;
     padding-top: 1px;
+    padding-bottom: 10%;
     color: #e9c46a;
     background-color: #2a9d8f;
     font-size: 4rem;
@@ -31,7 +32,6 @@ body {
     position: relative;
     height: 30%;
     width: 100%;
-    margin-top: 20%;
     font-size: 16px;
     font-family: 'Bakbak one', cursive;
 }
