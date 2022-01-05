@@ -25,7 +25,7 @@ function Contact(){
 
     return(
         <div className="contact">
-            <h1> Contact and Frequently asked questions..</h1>
+            <h1>  Frequently asked questions..</h1>
             <div className="accordion">
         {accordionData.map(({ title, content }) => (
           <Accordion title={title} content={content} />
