@@ -19,6 +19,16 @@ body {
 }
 
 
+.fb:hover{
+color: #4267B2;
+cursor: grab;
+}
+
+.ig:hover{
+    color: #fb3958;
+    cursor: grab;
+}
+
 .header img{
     width: 30%;
     height: 30%;

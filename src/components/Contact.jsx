@@ -4,13 +4,18 @@ import Accordion from "./Accordion";
 
 function Contact(){
     const accordionData = [
-        {
+      {
+        title: 'How do I contact you?',
+        content: 'click the facebook or instagram link or email me at .'
+      },
+      
+      {
         title: 'When will my order be ready',
         content: 'Weekdays after 5 and weekends on scheduled pickup or deliver (fees apply)'
       },
       {
           title: "What all on these boards?",
-          content: "Well it depends on the season, but always the fresest meats cheeses and fruits I can find"
+          content: "Well it depends on the season, but always the freshest meats cheeses and fruits I can find"
       },
       {
          title: 'Can I order a custom board??',
