@@ -14,6 +14,7 @@ function Icons(){
             style={{fontSize: 200}}
             className='ig'
             onClick={() => window.open('https://www.instagram.com/honeycharcuterieco/')}
+            
             />
         </div>
     )
